@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🧑‍💻 I'm not a programmer, I merely create with code.
+- ⏰ Weekend hacker.
+- 💾 Curious fingers since the days of NetBSD on VAX 11/750.
+- 🎓 Currently exploring Handlebars (Ghost CMS), Tailwind CSS, Digital Ocean Functions
+- 🚀 Coming up: FlutterFlow, Xano and Ghost Admin API
